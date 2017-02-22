@@ -1,0 +1,221 @@
+body{
+    margin: 0;
+    padding: 100px;
+    background-color: #000000;
+    
+}
+#wrapper{
+	width: 320px;
+	height:570px;
+	margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
+.status_bar{
+   width: 320px;
+   height: 30px;
+   text-align: center;
+   padding-top: 15px;
+   color: #ffffff;
+   background-color:#e99cb2;
+
+}
+.back{
+  float: left;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.back a{
+  color: #ffffff;
+}
+
+#search{
+  float: left;
+  width: 320px;
+  height: 30px;
+  background-color:#ffffff;
+  color: #000000;
+}
+#box_search{
+   width: 650px;
+   height: 30px;
+   margin-right: auto;
+   margin-left: auto;
+   float: left;
+   margin-left: 25px;
+   margin-top: 10px;
+   
+} 
+.s-button{
+  margin-left: 15px;
+  border-radius: 0 0 0;
+}
+#ProductList{
+  width: 320px;
+  height: 25px;
+  background-color: #e99cb2;
+  text-align: center;
+}
+
+#product{
+ width: 320px;
+ margin-top: 10px;
+ background-color: #e99cb2;
+}
+.product{
+   width: 280px;
+   height: 120px;
+   background-color: #ffffff;
+   margin-left: 20px;
+   margin-top: 15px;
+   border:0.5px solid #000000;
+}
+.product_pic{
+   width: 120px;
+   height: 120px;
+   background-color: #666666;
+   float: left;
+}
+.product_detail{
+   width: 100px;
+   height: 120px;
+   float: left;
+   text-align: center;
+   font-size: 9px;
+   color: #000000;
+}
+.add_order{
+   width: 60px;
+   height: 120px;
+   background-color: #e99cb2;
+   float: left;
+}
+#menu_bar {
+   width: 320px;
+   height: 45px;
+   text-align: center;
+   margin-top: 15px;
+   color: #ffffff;
+   background-color:#ffffff;
+  border-top :0.5px solid #000000;
+
+}
+
+a{
+  text-decoration: none;
+  color: #999999;
+
+
+
+}
+.active{
+  text-decoration: none;
+  color: #e99cb2;
+}
+#menu_bar2 {
+   width: 320px;
+   height: 45px;
+   text-align: center;
+   margin-top: 340px;
+   color: #ffffff;
+   background-color:#ffffff;
+  border-top :0.5px solid #000000;
+
+}
+.search{
+  width: 200px;
+}
+
+/*--------- end index ---------------*/
+
+
+
+
+
+/*--------- order ---------------*/
+#order_pic{
+  width: 320px;
+  height: 320px;
+  float: left;
+}
+.name_product{
+  width: 320px;
+  text-align: center;;
+  color: #000000;
+  margin-top:15px;
+}
+#box_cart{
+ width: 250px;
+ height: 30px;
+ float: left;
+ margin-left: 110px;
+ margin-top: 15px;
+ margin-bottom: 15px;
+
+}
+.cart_button{
+width: 30px;
+ height: 30px;
+ background-color: #e99cb2;
+}
+.cart{
+width: 30px;
+ height: 30px;
+ background-color: #ffffff;
+}
+#price{
+  width: 320px;
+  height: 30px;
+  text-align: center;;
+  color: #000000;
+
+}
+#button{
+  width: 250px;
+  height: 40px;
+  float: left;
+  margin-left: 35px;
+  margin-top: 30px;
+}
+#button2{
+  width: 250px;
+  height: 40px;
+  float: left;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+.button{
+  width: 250px;
+  height: 40px;
+  background-color: #e99cb2;
+  color: #ffffff;
+}
+
+
+/*--------- end order ---------------*/
+
+/*--------- tracking form ---------------*/
+#trackForm{
+  width: 250px;
+  height: 300px;
+  float: left;
+  margin-left: 35px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+.name{
+  width: 250px;
+  height: 20px;
+  float: left;
+  margin-bottom: 10px;
+}
+#address{
+  width: 250px;
+  height: 60px;
+  float: left;
+  margin-bottom: 10px;
+}
+#fileToUpload{
+   margin-bottom: 30px;
+ 
+}
